@@ -1,5 +1,3 @@
-# NaijaHomes Property Management Application — Business Documentation
-
 # NaijaHomes Property Management Project
 
 A fictional case study created as part of my Business Analysis portfolio. This project simulates the documentation a Business Analyst would produce when supporting the planning and operational rollout of a property management platform for the Nigerian real estate market.
