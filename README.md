@@ -10,9 +10,8 @@ The response to this project was not a single isolated document — it was a con
 
 **01 — Business Requirements Document (BRD)**
 - Business context, objectives, and **7** measurable KPIs tied to stakeholder-agreed success metrics
-- **51** functional requirements across 9 modules (authentication, property/unit management, tenancy, rent payments, service charges, maintenance, communications, reporting, admin), prioritized using **MoSCoW**
+- **51** functional requirements across 9 modules (authentication, property/unit management, tenancy, rent payments, service charges, maintenance, communications, reporting, admin), prioritized using **High,Low,Medium**
 - Non-functional requirements, assumptions, constraints, and a **7**-item risk register with likelihood/impact/mitigation
-- Regulatory mapping to Nigeria-specific frameworks (NDPA 2023, CBN guidelines, NIBSS, State Tenancy Law)
 - Acceptance criteria defined as the formal gate for go-live sign-off
 
 **02 — Standard Operating Procedure (SOP)**
