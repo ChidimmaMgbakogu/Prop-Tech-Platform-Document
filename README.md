@@ -28,11 +28,8 @@ This repository is part of my growing Business Analyst portfolio, showcasing my 
 ## Skills demonstrated
 
 - Requirements Gathering & Documentation (BRD)
-- MoSCoW Prioritization
 - Risk Identification & Mitigation Planning
-- Regulatory/Compliance Mapping (market-specific: Nigeria)
 - Business Process Documentation (SOP)
-- Process Design & Escalation Pathway Mapping
 
 ## Conclusion
 
